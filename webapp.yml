@@ -23,5 +23,7 @@
       
     - name: Install docker python
       pip: name=docker-py
+    - name: Install docker-compose python
+      pip: name=docker-compose-py
     
     
